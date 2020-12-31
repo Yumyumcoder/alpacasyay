@@ -1,0 +1,44 @@
+#Hilary {
+	background: url("../img/bluebackground.jpg") top center;
+	background-size: cover;
+	height: 100vh;
+}
+
+.self-intro {
+	color: white;
+}
+
+#background-form {
+	background-color: gray;
+	padding: 5px;
+
+}
+
+#Hover:hover {
+	background-color: black;
+}
+
+#Hover:active {
+	background-color: purple;
+}
+
+
+#exampleInputEmail1:focus {
+	color: cyan!important;
+	background-color: black;
+}
+
+.margin-top {
+	margin-top: 40px;
+
+}
+
+#footer {
+	background: black;
+	color: white;
+
+}
+
+ul {
+	list-style-type: none;
+}
